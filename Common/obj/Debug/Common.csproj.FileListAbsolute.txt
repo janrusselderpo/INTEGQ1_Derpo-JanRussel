@@ -1,0 +1,6 @@
+C:\Users\acer\source\repos\ConsoleApp1\Common\bin\Debug\Common.dll
+C:\Users\acer\source\repos\ConsoleApp1\Common\bin\Debug\Common.pdb
+C:\Users\acer\source\repos\ConsoleApp1\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\ConsoleApp1\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ConsoleApp1\Common\obj\Debug\Common.dll
+C:\Users\acer\source\repos\ConsoleApp1\Common\obj\Debug\Common.pdb

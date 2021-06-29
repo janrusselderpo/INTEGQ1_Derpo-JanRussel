@@ -1,0 +1,11 @@
+C:\Users\acer\source\repos\ConsoleApp1\DL\bin\Debug\DL.dll
+C:\Users\acer\source\repos\ConsoleApp1\DL\bin\Debug\DL.pdb
+C:\Users\acer\source\repos\ConsoleApp1\DL\bin\Debug\Common.dll
+C:\Users\acer\source\repos\ConsoleApp1\DL\bin\Debug\System.Data.SqlClient.dll
+C:\Users\acer\source\repos\ConsoleApp1\DL\bin\Debug\Common.pdb
+C:\Users\acer\source\repos\ConsoleApp1\DL\bin\Debug\System.Data.SqlClient.xml
+C:\Users\acer\source\repos\ConsoleApp1\DL\obj\Debug\DL.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\ConsoleApp1\DL\obj\Debug\DL.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ConsoleApp1\DL\obj\Debug\DL.csproj.CopyComplete
+C:\Users\acer\source\repos\ConsoleApp1\DL\obj\Debug\DL.dll
+C:\Users\acer\source\repos\ConsoleApp1\DL\obj\Debug\DL.pdb

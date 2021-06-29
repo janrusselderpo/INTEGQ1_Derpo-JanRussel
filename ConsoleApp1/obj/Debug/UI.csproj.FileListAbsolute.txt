@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\acer\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\acer\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\acer\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\BL.dll
+C:\Users\acer\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Common.dll
+C:\Users\acer\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\DL.dll
+C:\Users\acer\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\BL.pdb
+C:\Users\acer\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Common.pdb
+C:\Users\acer\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\DL.pdb
+C:\Users\acer\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\UI.csproj.CopyComplete
+C:\Users\acer\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\acer\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
